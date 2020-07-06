@@ -70,6 +70,11 @@ In Visual Studio Code, navigate to `Preferences` -> `Settings` and search for `F
 * [Json Serialization](https://github.com/dart-lang/json_serializable)
 * [Dependency Injection](https://github.com/google/inject.dart)
 
+### Main
+
+This is the starting point of the application. All the application level configurations are defined in this file i.e, theme, routes, title, orientation etc.
+
+```dart
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
