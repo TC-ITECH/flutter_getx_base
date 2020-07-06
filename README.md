@@ -1,3 +1,7 @@
+MVVM stands for Model View View-model it provides the separation of development of the graphical user interface(GUI) from the business logic or back-end logic (or data model). The view model of MVVM is a converter that converts the data from the model in such a way that it can be managed and presented with great ease. So we could say that the view model is more model rather than a view as it handles most of the view's logic and it even makes the code very readable.
+* [Reference](hhttps://www.kodemakers.com/what-is-mvvm.html)
+![Flutter MVVM](https://www.kodemakers.com/images/blog/mvvm.png)
+
 # Boilerplate Project
 
 A boilerplate project created in flutter using MVVM (Following Google), BloC (flutter_bloc plugin), RxDart and others trending technical 
