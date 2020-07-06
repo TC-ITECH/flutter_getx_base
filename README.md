@@ -3,11 +3,11 @@ MVVM stands for Model View View-model it provides the separation of development 
 
 ![Flutter MVVM](https://www.kodemakers.com/images/blog/mvvm.png)
 
-# Boilerplate Project
+# Our Boilerplate Project
 
 A boilerplate project created in flutter using MVVM (Following Google), BloC (flutter_bloc plugin), RxDart and others trending technical 
 
-## Getting Started
+## Lets DIG IN
 
 The Boilerplate contains the minimal implementation required to create a new library or project. The repository code is preloaded with some basic components like basic app architecture, app theme, constants and required dependencies to create a new project. By using boiler plate code as standard initializer, we can have same patterns in all the projects that will inherit it. This will also help in reducing setup & development time by allowing you to use same code pattern and avoid re-writing from scratch.
 
