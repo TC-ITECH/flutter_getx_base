@@ -18,10 +18,19 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  get: 3.26.0
+  get_storage: ^2.0.2
+  json_annotation:
+  flutter_easyloading: 3.0.0
+  rxdart: 0.26.0
+  freezed_annotation:
+  intl: 0.17.0
+  flutter_screenutil: ^5.0.0-nullsafety.1
+  hive: ^2.0.2
+  hive_flutter: 1.0.0
+  get: ^4.1.1
   flutter:
     sdk: flutter
 
@@ -35,6 +44,10 @@ dev_dependencies:
     sdk: flutter
 
   pedantic: ^1.11.0
+  build_runner:
+  freezed:
+  json_serializable:
+  hive_generator: ^1.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
